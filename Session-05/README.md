@@ -6,9 +6,21 @@ Session 5 content summary
 
 Any requirements for this session
 
-## ...
+## Adding Plugins to Pycharm
 
-Add headings and content as required
+The lecturers use a variety of plugins with PyCharm. These include the following:
+
+| Plugin Name | Purpose |
+|-------------|-----------------------------------------|
+| .ignore | Used to create "ignore" files for Git and other systems. |
+| Atom Material Icons | Adds more meaningful icons to the project and file navigation areas |
+| CSV | Used to easing work with Comma Separated Variable files |
+| Material Theme UI Lite | A Theming system with many customisation options |
+| Extra Icons | Additional icons for use with file types and more |
+| .env | For working with `.env` files |
+| Rainbow Brackets | Highlights brackets in colour |
+| Requirements | USed for working with `requirements.txt` files |
+
 
 ## Adding a standardised heading to Python files
 
